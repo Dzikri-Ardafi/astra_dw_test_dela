@@ -127,7 +127,6 @@ The cleaning process performs several transformations to standardize the data.
 ### Customers
 
 - Standardizes the `dob` field into a valid date format
-- Converts placeholder date `1900-01-01` into `NULL`
 - Prevents duplicate customer IDs
 
 ### Sales
